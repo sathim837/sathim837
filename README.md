@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sathi Majumder 👋
 
-<!--
-**sathim837/sathim837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building scalable Node.js applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- Express.js
+- TypeScript
+- MySQL
+- MongoDB
+- Docker
+- AWS EC2
+- Laravel
+- PHP
+
+### Scalable Ecommerce Backend
+Ecommerce backend focusing on scalability, modular architecture, authentication, and performance.
+
+### Ecommerce Microservice
+Microservice-based ecommerce backend built using Node.js, TypeScript, RabbitMQ, MongoDB, and Docker.
+
+### Ecommerce Microservice Architecture
+
+Features:
+
+- API Gateway
+- Authentication Service
+- Product Service
+- Order Service
+- Message Queue Communication
+- Dockerized Deployment
+- JWT Authentication
+- MongoDB Integration
+
+## Contact
+
+- GitHub: https://github.com/sathim837
