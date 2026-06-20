@@ -14,7 +14,7 @@ Backend Developer focused on building scalable Node.js applications.
 - Laravel
 - PHP
 
-### Scalable Ecommerce Backend
+### Scalable Backend
 Ecommerce backend focusing on scalability, modular architecture, authentication, and performance.
 
 ### Ecommerce Microservice
